@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://images.app.goo.gl/Fi5ZAxB9i9sNnAndA" alt="VJ-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  Nitish bot 
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
@@ -11,11 +11,11 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+💝 Credit Goes To [Nitish jr](https://telegram.me/Nitishsi7) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Nitish jr](https://telegram.me/nitishsi7)
 
 </b>
 </details>
@@ -24,16 +24,16 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+- YouTube Channel : [Nitish jr](https://youtube.com/@Tech_VJ)
+- Telegram Channel : [Nitish jr](https://telegram.me/VJ_Botz)
+- Contact Link : [Nitish jr](https://telegram.me/Kingvj01)
+- Instagram Id Link : [Nitish jr](https://instagram.com/tech.vj)
 
 </b>
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
+### Copyright ©️ [Nitish jr](https://youtube.com/@Tech_VJ)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
