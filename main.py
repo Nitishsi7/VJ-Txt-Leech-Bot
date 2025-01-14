@@ -160,9 +160,9 @@ async def upload(bot: Client, m: Message):
                 ytf = f"b[height<={raw_text2}]/bv[height<={raw_text2}]+ba/b/bv+ba"
 
             if "jw-prod" in url:
-                cmd = f'yt-dlp -o "{name}.mkv" "{url}"'
+                cmd = f'yt-dlp -o "{name}.video.mp4" "{url}"'
             else:
-                cmd = f'yt-dlp -f "{ytf}" "{url}" -o "{name}.mkv"'
+                cmd = f'yt-dlp -f "{ytf}" "{url}" -o "{name}.video.mp4"'
 
             try:  
                 
