@@ -155,7 +155,7 @@ async def upload(bot: Client, m: Message):
             name = f'{str(count).zfill(3)}) {name1[:60]}'
 
             if "youtu" in url:
-                ytf = f"b[height<={raw_text2}][ext=mkv]/bv[height<={raw_text2}][ext=mkv]+ba[ext=m4a]/b[ext=mkv]"
+                ytf = f"b[height<={raw_text2}][ext=video.mp4]/bv[height<={raw_text2}][ext=video.mp4]+ba[ext=m4a]/b[ext=video.mp4]"
             else:
                 ytf = f"b[height<={raw_text2}]/bv[height<={raw_text2}]+ba/b/bv+ba"
 
